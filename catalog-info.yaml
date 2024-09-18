@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example-serviceA
+  name: example-serviceA<h1>moi</h1>${{7*7}}{4*4}{{4*4}} hello;prompt();//
 spec:
   type: service
   lifecycle: appointed
